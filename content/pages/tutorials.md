@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Tutorials
+ocw_type: CourseSection
 title: Tutorials
 uid: e8eacfe3-c521-977f-9f90-6985ec41157f
 ---

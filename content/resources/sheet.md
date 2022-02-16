@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Instructions for and care of laboratory equipment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-670-mechanical-engineering-tools-january-iap-2004/4ebb7b36cb672fc232fe99ef7ec1252a_sheet.pdf
+file: /media/courses/2-670-mechanical-engineering-tools-january-iap-2004/4ebb7b36cb672fc232fe99ef7ec1252a_sheet.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tutorials
+ocw_type: OCWFile
+parent_title: Tutorials
+parent_type: CourseSection
 resourcetype: Document
 title: sheet.pdf
 uid: 4ebb7b36-cb67-2fc2-32fe-99ef7ec1252a
