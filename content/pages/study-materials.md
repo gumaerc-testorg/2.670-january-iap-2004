@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 45bacecd-9e58-39c0-d5fc-05bf01ec8954
 ---
@@ -18,7 +21,7 @@ Stirling Engine Animation
 
 Below is an animation of the 2.670 Stirling engine.
 
-![Stirling engine animation.](/courses/mechanical-engineering/2-670-mechanical-engineering-tools-january-iap-2004/study-materials/engine.gif)
+{{< resource "733e5ff7-47ed-9b37-f84d-44827c5652b5" >}}
 
 Animation of the 2.670 Stirling Engine.
 

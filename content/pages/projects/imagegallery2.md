@@ -1,13 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 26a3f71b-6fb9-9545-7403-87c9e33c7f4a
 title: Image Gallery of Lab Equipment Used in 2.670
 uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 ---
 
 Images courtesy of MIT OpenCourseWare.
-{{< image-gallery id="fb05650f-0566-01f3-dc7a-b8e25aca4dda_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-670-mechanical-engineering-tools-january-iap-2004/" >}}
+{{< image-gallery id="fb05650f-0566-01f3-dc7a-b8e25aca4dda_nanogallery2" baseUrl="/courses/2-670-mechanical-engineering-tools-january-iap-2004/" >}}
 {{< image-gallery-item href="a1e6f4288091f58c600101951587726e_LMP_lab.jpg" data-ngdesc="The Lab for Manufacturing and Productivity (LMP). Image courtesy of MIT OpenCourseWare." text="The Lab for Manufacturing and Productivity (LMP)." >}}
 {{< image-gallery-item href="1f52c1ecacbd9666168d3daf3e35ff81_elec_classroom.jpg" data-ngdesc="Computer-based modeling is taught in electronic classrooms. Image courtesy of MIT OpenCourseWare." text="Computer-based modeling is taught in electronic classrooms." >}}
 {{< image-gallery-item href="97c766b1a83587b0f585c0b27c169597_CAD_lab.jpg" data-ngdesc="A dedicated CAD lab adjoins the LMP lab. Image courtesy of MIT OpenCourseWare." text="A dedicated CAD lab adjoins the LMP lab." >}}

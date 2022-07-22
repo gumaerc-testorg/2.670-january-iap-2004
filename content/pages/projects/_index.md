@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 26a3f71b-6fb9-9545-7403-87c9e33c7f4a
 ---
@@ -70,6 +74,6 @@ Modified Engine Race
 
   
 
-[Image Gallery of 2.670 Stirling Engine Spin-Off (IAP 2004)]({{< baseurl >}}/pages/projects/imagegallery1)
+{{% resource_link 2394c415-ee0e-9541-ca01-e925eadf8028 "Image Gallery of 2.670 Stirling Engine Spin-Off (IAP 2004)" %}}
 
-[Image Gallery of Lab Equipment Used in 2.670]({{< baseurl >}}/pages/projects/imagegallery2)
+{{% resource_link fb05650f-0566-01f3-dc7a-b8e25aca4dda "Image Gallery of Lab Equipment Used in 2.670" %}}
