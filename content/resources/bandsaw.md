@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Band saw.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of Lab Equipment Used in 2.670
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: bandsaw.jpg
 uid: dbcf6c0e-74bd-5929-8234-aaa191594651
 ---
 Band saw. Image courtesy of MIT OpenCourseWare.
-

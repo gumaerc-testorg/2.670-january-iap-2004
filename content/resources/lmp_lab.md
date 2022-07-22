@@ -9,6 +9,7 @@ image_metadata:
   credit: Images courtesy of MIT OpenCourseWare.
   image-alt: The Lab for Manufacturing and Productivity (LMP).
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of Lab Equipment Used in 2.670
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: LMP_lab.jpg
 uid: a1e6f428-8091-f58c-6001-01951587726e
 ---
 The Lab for Manufacturing and Productivity (LMP). Image courtesy of MIT OpenCourseWare.
-

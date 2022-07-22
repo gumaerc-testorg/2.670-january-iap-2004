@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: CNC (CAD numerical control) lathe with single tool holder.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of Lab Equipment Used in 2.670
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: CNC_lathe.jpg
 uid: 61645e25-6885-e3e9-95c3-efb02cc86d8a
 ---
 CNC (CAD numerical control) lathe with single tool holder. Image courtesy of MIT OpenCourseWare.
-

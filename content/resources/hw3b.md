@@ -5,6 +5,7 @@ file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/de8f704bcfd99
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw3b.pdf
 uid: de8f704b-cfd9-9423-750a-afcb25098593
 ---
 Second order single degree of freedom oscillator equation.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Conventional lathe.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of Lab Equipment Used in 2.670
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lathe_LMP.jpg
 uid: 3f98f6c4-a625-5971-14ac-20af6c06903b
 ---
 Conventional lathe. Image courtesy of MIT OpenCourseWare.
-

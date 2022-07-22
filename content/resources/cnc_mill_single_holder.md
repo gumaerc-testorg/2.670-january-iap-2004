@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Single-tool holder within a CNC mill.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of Lab Equipment Used in 2.670
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: CNC_mill_single_holder.jpg
 uid: 25a771c0-4f07-26b6-ffe5-47204f10307c
 ---
 Single-tool holder within a CNC mill. Image courtesy of MIT OpenCourseWare.
-

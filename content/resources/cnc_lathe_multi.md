@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: CNC lathe equipped with a multi-tool holder.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of Lab Equipment Used in 2.670
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: CNC_lathe_multi.jpg
 uid: bdb6b351-0bf7-8902-b5fe-2b2b602ce295
 ---
 CNC lathe equipped with a multi-tool holder. Image courtesy of MIT OpenCourseWare.
-

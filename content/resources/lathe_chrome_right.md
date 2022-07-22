@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Students work with different vintages of tools, from computer controlled
     to chrome plated.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of Lab Equipment Used in 2.670
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: lathe_chrome_right.jpg
 uid: d694f90a-ad17-b16e-b062-40ac89cd873c
 ---
 Students work with different vintages of tools, from computer controlled to chrome plated. Image courtesy of MIT OpenCourseWare.
-

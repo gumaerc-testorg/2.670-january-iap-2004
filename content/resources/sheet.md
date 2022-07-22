@@ -5,6 +5,7 @@ file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/4ebb7b36cb672
 file_type: application/pdf
 learning_resource_types:
 - Tutorials
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sheet.pdf
 uid: 4ebb7b36-cb67-2fc2-32fe-99ef7ec1252a
 ---
 Instructions for and care of laboratory equipment.
-

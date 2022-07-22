@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Belt Sander.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of Lab Equipment Used in 2.670
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: belt_sander.jpg
 uid: 484ef0ac-689e-5547-0f06-6d0a472d358e
 ---
 Belt Sander. Image courtesy of MIT OpenCourseWare.
-

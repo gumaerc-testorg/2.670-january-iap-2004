@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Conventional milling machine.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of Lab Equipment Used in 2.670
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mill_Pap.jpg
 uid: d2727bb0-c23b-2c17-0604-f44069d964f1
 ---
 Conventional milling machine. Image courtesy of MIT OpenCourseWare.
-

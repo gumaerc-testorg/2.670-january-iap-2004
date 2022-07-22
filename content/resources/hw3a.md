@@ -5,6 +5,7 @@ file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/da00cef4b578f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw3a.pdf
 uid: da00cef4-b578-fd75-82d1-25c85ab3fe9b
 ---
 First order temperature cooling equation.
-

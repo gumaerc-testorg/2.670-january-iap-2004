@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Alexandra Nelson's engine.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of 2.670 Stirling Engine Spin-Off
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: NelsonEngine.jpg
 uid: 1ae7d790-f215-6d5d-865a-7a768c71d5db
 ---
 Alexandra Nelson's engine. Image courtesy of MIT OpenCourseWare.
-

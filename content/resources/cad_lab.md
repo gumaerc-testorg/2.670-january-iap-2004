@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: A dedicated CAD lab adjoins the LMP lab.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of Lab Equipment Used in 2.670
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: CAD_lab.jpg
 uid: 97c766b1-a835-87b0-f585-c0b27c169597
 ---
 A dedicated CAD lab adjoins the LMP lab. Image courtesy of MIT OpenCourseWare.
-

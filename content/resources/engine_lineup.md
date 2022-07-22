@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Student's Stirling engines, lined up for the end-of-class spinoff.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery of 2.670 Stirling Engine Spin-Off
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: engine_lineup.jpg
 uid: 332b07e8-4842-b5e2-5ca7-6ffeb8c1ff5e
 ---
 Student's Stirling engines, lined up for the end-of-class spinoff. Image courtesy of MIT OpenCourseWare.
-

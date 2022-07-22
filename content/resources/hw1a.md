@@ -6,6 +6,7 @@ file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/7e76328f7bd06
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw1a.pdf
 uid: 7e76328f-7bd0-6224-e4bd-a61e28efcfc2
 ---
 The force to displacement matrix, the forces, and the maximum weight a recent 2.007 machine could lift with air cylinders.
-

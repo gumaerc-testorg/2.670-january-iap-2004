@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: engine.gif
 uid: 733e5ff7-47ed-9b37-f84d-44827c5652b5
 ---
 Animation of the 2.670 Stirling Engine.
-
