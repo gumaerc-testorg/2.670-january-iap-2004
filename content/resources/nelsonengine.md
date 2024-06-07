@@ -2,6 +2,7 @@
 content_type: resource
 description: Alexandra Nelson's engine. Image courtesy of MIT OpenCourseWare.
 file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/1ae7d790f2156d5d865a7a768c71d5db_NelsonEngine.jpg
+file_size: 43716
 file_type: image/jpeg
 image_metadata:
   caption: Alexandra Nelson's engine.

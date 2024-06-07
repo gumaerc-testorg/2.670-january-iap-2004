@@ -2,6 +2,7 @@
 content_type: resource
 description: CNC lathe equipped with a multi-tool holder. Image courtesy of MIT OpenCourseWare.
 file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/bdb6b3510bf78902b5fe2b2b602ce295_CNC_lathe_multi.jpg
+file_size: 53829
 file_type: image/jpeg
 image_metadata:
   caption: CNC lathe equipped with a multi-tool holder.
