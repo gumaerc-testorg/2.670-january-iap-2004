@@ -2,6 +2,7 @@
 content_type: resource
 description: Conventional lathe. Image courtesy of MIT OpenCourseWare.
 file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/3f98f6c4a625597114ac20af6c06903b_lathe_LMP.jpg
+file_size: 81830
 file_type: image/jpeg
 image_metadata:
   caption: Conventional lathe.

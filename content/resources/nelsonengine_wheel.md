@@ -3,6 +3,7 @@ content_type: resource
 description: Alexandra Nelson was among the many students adding fine details and
   creative customizations to their engines. Image courtesy of MIT OpenCourseWare.
 file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/680b265041e2b94ae844b2d9ce296101_NelsonEngine_wheel.jpg
+file_size: 55183
 file_type: image/jpeg
 image_metadata:
   caption: Alexandra Nelson was among the many students adding fine details and creative

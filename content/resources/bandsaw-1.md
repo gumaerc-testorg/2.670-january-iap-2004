@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for and care of laboratory equipment.
 file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/6eb93981f67b5338b0430d1b74ac821c_bandsaw.pdf
+file_size: 65305
 file_type: application/pdf
 learning_resource_types:
 - Tutorials
