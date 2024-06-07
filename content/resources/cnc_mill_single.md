@@ -2,6 +2,7 @@
 content_type: resource
 description: CNC mill equipped with a single-tool holder. Image courtesy of MIT OpenCourseWare.
 file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/056606ac0270e739eea0f8d1d3dba145_CNC_mill_single.jpg
+file_size: 60595
 file_type: image/jpeg
 image_metadata:
   caption: CNC mill equipped with a single-tool holder.
