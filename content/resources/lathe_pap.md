@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Conventional lathe. Image courtesy of MIT OpenCourseWare.
-file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/ebbe36d3c78e89e0e5d01e4de08e928b_lathe_Pap.jpg
+file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/ebbe36d3c78e89e0e5d01e4de08e928b_lathe_Pap.jpg
 file_size: 69155
 file_type: image/jpeg
 image_metadata:

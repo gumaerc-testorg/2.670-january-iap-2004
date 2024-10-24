@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Animation of the 2.670 Stirling Engine.
-file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/733e5ff747ed9b37f84d44827c5652b5_engine.gif
+file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/733e5ff747ed9b37f84d44827c5652b5_engine.gif
 file_size: 973736
 file_type: image/gif
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Computer-based modeling is taught in electronic classrooms. Image courtesy
   of MIT OpenCourseWare.
-file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/1f52c1ecacbd9666168d3daf3e35ff81_elec_classroom.jpg
+file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/1f52c1ecacbd9666168d3daf3e35ff81_elec_classroom.jpg
 file_size: 60362
 file_type: image/jpeg
 image_metadata:
