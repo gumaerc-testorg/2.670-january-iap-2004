@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Belt Sander. Image courtesy of MIT OpenCourseWare.
-file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/484ef0ac689e55470f066d0a472d358e_belt_sander.jpg
+file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/484ef0ac689e55470f066d0a472d358e_belt_sander.jpg
 file_size: 63646
 file_type: image/jpeg
 image_metadata:
