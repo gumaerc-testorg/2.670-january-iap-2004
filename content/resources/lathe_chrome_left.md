@@ -2,7 +2,7 @@
 content_type: resource
 description: Students work with different vintages of tools, from computer controlled
   to chrome plated. Image courtesy of MIT OpenCourseWare.
-file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/b507a1ad7e3893173b2a402221549b07_lathe_chrome_left.jpg
+file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/b507a1ad7e3893173b2a402221549b07_lathe_chrome_left.jpg
 file_size: 69391
 file_type: image/jpeg
 image_metadata:

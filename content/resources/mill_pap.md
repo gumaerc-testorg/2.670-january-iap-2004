@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Conventional milling machine. Image courtesy of MIT OpenCourseWare.
-file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/d2727bb0c23b2c170604f44069d964f1_mill_Pap.jpg
+file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/d2727bb0c23b2c170604f44069d964f1_mill_Pap.jpg
 file_size: 56542
 file_type: image/jpeg
 image_metadata:

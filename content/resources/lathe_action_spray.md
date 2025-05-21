@@ -2,7 +2,7 @@
 content_type: resource
 description: Student use lathes to machine their Stirling engine wheels. Image courtesy
   of MIT OpenCourseWare.
-file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/9d12da139f7ba88ad0ca6dd2655b04e8_lathe_action_spray.jpg
+file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/9d12da139f7ba88ad0ca6dd2655b04e8_lathe_action_spray.jpg
 file_size: 73556
 file_type: image/jpeg
 image_metadata:

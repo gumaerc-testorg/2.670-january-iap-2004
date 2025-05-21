@@ -2,7 +2,7 @@
 content_type: resource
 description: The Lab for Manufacturing and Productivity (LMP). Image courtesy of MIT
   OpenCourseWare.
-file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/a1e6f4288091f58c600101951587726e_LMP_lab.jpg
+file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/a1e6f4288091f58c600101951587726e_LMP_lab.jpg
 file_size: 82184
 file_type: image/jpeg
 image_metadata:
