@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A dedicated CAD lab adjoins the LMP lab. Image courtesy of MIT OpenCourseWare.
-file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/97c766b1a83587b0f585c0b27c169597_CAD_lab.jpg
+file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/97c766b1a83587b0f585c0b27c169597_CAD_lab.jpg
 file_size: 60281
 file_type: image/jpeg
 image_metadata:

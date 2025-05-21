@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Multi-tool holder within a CNC mill. Image courtesy of MIT OpenCourseWare.
-file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/3b8825b432822dce04946de2661f3d6f_CNC_mill_multi_holder.jpg
+file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/3b8825b432822dce04946de2661f3d6f_CNC_mill_multi_holder.jpg
 file_size: 61119
 file_type: image/jpeg
 image_metadata:
