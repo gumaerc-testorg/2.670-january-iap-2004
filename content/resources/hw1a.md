@@ -2,7 +2,7 @@
 content_type: resource
 description: The force to displacement matrix, the forces, and the maximum weight
   a recent 2.007 machine could lift with air cylinders.
-file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/7e76328f7bd06224e4bda61e28efcfc2_hw1a.pdf
+file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/7e76328f7bd06224e4bda61e28efcfc2_hw1a.pdf
 file_size: 84268
 file_type: application/pdf
 learning_resource_types:
