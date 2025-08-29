@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for and care of laboratory equipment.
-file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/bf5c8bc30a19c926f6e66be8b2b684e1_beltsand.pdf
+file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/bf5c8bc30a19c926f6e66be8b2b684e1_beltsand.pdf
 file_size: 86730
 file_type: application/pdf
 learning_resource_types:

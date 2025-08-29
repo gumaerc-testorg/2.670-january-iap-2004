@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chandler Hatton's engine. Image courtesy of MIT OpenCourseWare.
-file: /courses/2-670-mechanical-engineering-tools-january-iap-2004/cca56002f29f09610b87531e9ffcafc0_HattonEngine.jpg
+file: /ol-ocw-studio-app/courses/2-670-mechanical-engineering-tools-january-iap-2004/cca56002f29f09610b87531e9ffcafc0_HattonEngine.jpg
 file_size: 47292
 file_type: image/jpeg
 image_metadata:
